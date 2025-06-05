@@ -175,12 +175,12 @@ void main() async {
   String? corpoMensagem = stdin.readLineSync();
 
   final smtpServer = gmail(
-    'anderson.rodrigues04@aluno.ifce.edu.br',
-    'wdrr whns uyuo zfkm',
+    'email',
+    'senha_de_app',
   );
 
   final message = Message()
-    ..from = Address('anderson.rodrigues04@aluno.ifce.edu.br', 'Anderson')
+    ..from = Address('email', 'Anderson')
     ..recipients.add(destinatario ?? '')
     ..subject = assunto ?? 'Pedido de Venda JSON'
     ..text = corpoMensagem ?? ''
