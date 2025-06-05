@@ -1,0 +1,46 @@
+{
+  "codigo": "PDV005",
+  "data": "2025-06-05T20:15:11.748662",
+  "valorPedido": 4000.0,
+  "cliente": {
+    "codigo": 10,
+    "nome": "Fernando Lima",
+    "tipoCliente": 2
+  },
+  "vendedor": {
+    "codigo": 5,
+    "nome": "Patrícia Gomes",
+    "comissao": 8.0
+  },
+  "veiculo": {
+    "codigo": 305,
+    "descricao": "Pickup 4x4 Diesel",
+    "valor": 125000.0
+  },
+  "items": [
+    {
+      "sequencial": 1,
+      "descricao": "Protetor de Caçamba",
+      "quantidade": 1,
+      "valor": 1200.0
+    },
+    {
+      "sequencial": 2,
+      "descricao": "Engate Reboque",
+      "quantidade": 1,
+      "valor": 800.0
+    },
+    {
+      "sequencial": 3,
+      "descricao": "Alarme Completo",
+      "quantidade": 1,
+      "valor": 1500.0
+    },
+    {
+      "sequencial": 4,
+      "descricao": "Capa de Banco",
+      "quantidade": 2,
+      "valor": 250.0
+    }
+  ]
+}
