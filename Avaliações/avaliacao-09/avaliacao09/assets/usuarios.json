@@ -1,0 +1,22 @@
+[
+  {"id":1,"name":"Ana Oliveira","email":"ana.oliveira@example.com","phone":"(11) 91234-1001","website":"anaoliveira.dev","company":{"name":"AlphaTech"}},
+  {"id":2,"name":"Bruno Martins","email":"bruno.martins@example.com","phone":"(21) 99876-1002","website":"brunom.dev","company":{"name":"CodeStart"}},
+  {"id":3,"name":"Camila Souza","email":"camila.souza@example.com","phone":"(31) 98765-1003","website":"camilas.dev","company":{"name":"DevSoft"}},
+  {"id":4,"name":"Diego Lima","email":"diego.lima@example.com","phone":"(85) 97654-1004","website":"diegol.dev","company":{"name":"NextWave"}},
+  {"id":5,"name":"Eduarda Rocha","email":"eduarda.rocha@example.com","phone":"(61) 96543-1005","website":"edurocha.com","company":{"name":"TechNova"}},
+  {"id":6,"name":"Felipe Costa","email":"felipe.costa@example.com","phone":"(71) 95432-1006","website":"felipec.dev","company":{"name":"InfoWorld"}},
+  {"id":7,"name":"Gabriela Nunes","email":"gabriela.nunes@example.com","phone":"(48) 94321-1007","website":"gabynunes.io","company":{"name":"GigaTech"}},
+  {"id":8,"name":"Henrique Melo","email":"henrique.melo@example.com","phone":"(19) 93210-1008","website":"henrimelo.net","company":{"name":"SoftLine"}},
+  {"id":9,"name":"Isabela Ferreira","email":"isabela.ferreira@example.com","phone":"(13) 92109-1009","website":"isabelaf.dev","company":{"name":"NetFusion"}},
+  {"id":10,"name":"João Pedro","email":"joao.pedro@example.com","phone":"(44) 91098-1010","website":"joaopedro.tech","company":{"name":"CodeSphere"}},
+  {"id":11,"name":"Karen Dias","email":"karen.dias@example.com","phone":"(45) 90987-1011","website":"karendias.dev","company":{"name":"WebCore"}},
+  {"id":12,"name":"Lucas Moreira","email":"lucas.moreira@example.com","phone":"(67) 89876-1012","website":"lucasm.tech","company":{"name":"ZettaSoft"}},
+  {"id":13,"name":"Marina Barbosa","email":"marina.barbosa@example.com","phone":"(92) 88765-1013","website":"marinab.dev","company":{"name":"ByteLab"}},
+  {"id":14,"name":"Nathan Vieira","email":"nathan.vieira@example.com","phone":"(85) 87654-1014","website":"nathanv.com","company":{"name":"CloudWave"}},
+  {"id":15,"name":"Olívia Andrade","email":"olivia.andrade@example.com","phone":"(31) 86543-1015","website":"olivia.dev","company":{"name":"StreamCode"}},
+  {"id":16,"name":"Paulo Henrique","email":"paulo.henrique@example.com","phone":"(62) 85432-1016","website":"phdev.tech","company":{"name":"NeoApps"}},
+  {"id":17,"name":"Quésia Torres","email":"quesia.torres@example.com","phone":"(11) 84321-1017","website":"quesiatorres.dev","company":{"name":"SmartBits"}},
+  {"id":18,"name":"Rodrigo Pires","email":"rodrigo.pires@example.com","phone":"(98) 83210-1018","website":"rodrigop.com","company":{"name":"DevOcean"}},
+  {"id":19,"name":"Sara Mendes","email":"sara.mendes@example.com","phone":"(27) 82109-1019","website":"saram.dev","company":{"name":"BitSource"}},
+  {"id":20,"name":"Thiago Cunha","email":"thiago.cunha@example.com","phone":"(34) 81098-1020","website":"thiagoc.dev","company":{"name":"NovaPixel"}}
+]
